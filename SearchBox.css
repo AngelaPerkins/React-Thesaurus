@@ -1,0 +1,30 @@
+.box {
+    display: center;
+    width: 400px; 
+    height: 100px; 
+    background-color: #d2f1d0; 
+    border-radius: 10px; 
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+  
+    
+    padding: 20px; 
+    color: #ffffff; 
+  }
+
+  .button {
+    border-radius: 10px;
+    position: relative;
+    top: 50px;
+    left: 150px;
+    
+    
+  }
+.box1 {
+    position: absolute;
+    margin-left: 125px;
+    border-radius: 10px;
+    
+}
+  
